@@ -1,4 +1,4 @@
-# Created by Cakeofdestiny
+# Created by Plutoberth
 
 import subprocess, sys
 from pathlib import Path
